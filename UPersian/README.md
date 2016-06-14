@@ -18,7 +18,7 @@ New GUI Items(Creation MenuItem > UPersian > ):
 
 Supports BestFit:
 
-![bestfit](https://cloud.githubusercontent.com/assets/6388730/16043398/b79198fa-3254-11e6-83a0-4724a62712b9.PNG)
+![bestfit](https://cloud.githubusercontent.com/assets/19928031/16045806/5e3c93e4-325f-11e6-9bab-9242df7c225b.gif)
 
 
 String Extentions:
