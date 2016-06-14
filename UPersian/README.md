@@ -37,4 +37,4 @@ New GUI Items(Creation MenuItem > UPersian > ):
 ## How to use:
 - Import latest unitypackage into your project.
 - Right click in hierarchy panel > UPersian > Rtl Text
-- Select RtlText in hierarchy and change text inside inspector! yes! everything should show correct in GUI
+- Select RtlText in hierarchy and change text inside inspector, everything should show correct in GUI.
