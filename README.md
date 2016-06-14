@@ -7,10 +7,14 @@ Unity Game Engine RTL Support
 
 Features:
 New GUI Items(Creation MenuItem > UPersian > ): 
-- RTL Text (Supports BestFit!)
+- RTL Text
 - RTL Inputfield
 - RTL Buton 
 - RTL Checkbox
+
+Supports BestFit:
+![bestfit](https://cloud.githubusercontent.com/assets/6388730/16043398/b79198fa-3254-11e6-83a0-4724a62712b9.PNG)
+
 
 String Extentions:
 - string RtlFix(): fixes original rtl strings to show in unity GUI. (ie. string hello = "سلام".RtlFix();)
