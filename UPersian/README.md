@@ -3,6 +3,9 @@
 UPersian:
 Unity Game Engine RTL Support
 
+This project used [ArabicSupprt for Unity](https://www.assetstore.unity3d.com/en/#!/content/2674) Asset.
+
+
 ![alt tag](https://cloud.githubusercontent.com/assets/6388730/16043232/f08871e8-3253-11e6-8153-d251e7dc67d0.PNG)
 
 Features:
