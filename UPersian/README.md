@@ -5,16 +5,16 @@ Unity Game Engine RTL Support
 
 This project used [ArabicSupprt for Unity](https://www.assetstore.unity3d.com/en/#!/content/2674) Asset.
 
-
-![inputfield](https://cloud.githubusercontent.com/assets/19928031/16045524/05988ed8-325e-11e6-8be9-f919321def01.gif)
-
-
 Features:
 New GUI Items(Creation MenuItem > UPersian > ): 
 - RTL Text
 - RTL Inputfield
 - RTL Buton 
 - RTL Checkbox
+
+Runtime RTL Input Field
+
+![inputfield](https://cloud.githubusercontent.com/assets/19928031/16045524/05988ed8-325e-11e6-8be9-f919321def01.gif)
 
 Supports BestFit:
 
