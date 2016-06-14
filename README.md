@@ -13,6 +13,7 @@ New GUI Items(Creation MenuItem > UPersian > ):
 - RTL Checkbox
 
 Supports BestFit:
+
 ![bestfit](https://cloud.githubusercontent.com/assets/6388730/16043398/b79198fa-3254-11e6-83a0-4724a62712b9.PNG)
 
 
