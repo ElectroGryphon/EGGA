@@ -21,6 +21,11 @@ Supports BestFit:
 ![bestfit](https://cloud.githubusercontent.com/assets/19928031/16045806/5e3c93e4-325f-11e6-9bab-9242df7c225b.gif)
 
 
+RightClick Contex Menu:
+
+![rightclickcontextmenu](https://cloud.githubusercontent.com/assets/19928031/16046308/371c261a-3261-11e6-83ee-2864cbffb57b.gif)
+
+
 String Extentions:
 - string RtlFix(): fixes original rtl strings to show in unity GUI. (ie. string hello = "سلام".RtlFix();)
 - bool IsRtl: returns whether string is rtl or not. (ie. bool checkRtl = "سلام".IsRtl();)
