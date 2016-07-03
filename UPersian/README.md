@@ -7,7 +7,7 @@ This project used [ArabicSupprt for Unity](https://www.assetstore.unity3d.com/en
 
 ## Features:
 
-Supports Arabic and Persian for now. (Waiting for @Konash to opensource ArabicSupport plugin).
+Supports Arabic and Persian for now. (~~Waiting for @Konash to opensource ArabicSupport plugin~~).
 
 New GUI Items(Creation MenuItem > UPersian > ): 
 - RTL Text
