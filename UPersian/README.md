@@ -30,8 +30,8 @@ New GUI Items(Creation MenuItem > UPersian > ):
 
 
 ## String Extentions:
-- string RtlFix(): fixes original rtl strings to show in unity GUI. (ie. string hello = "سلام".RtlFix();)
-- bool IsRtl: returns whether string is rtl or not. (ie. bool checkRtl = "سلام".IsRtl();)
+- string RtlFix(): fixes original rtl strings to show in unity GUI. (ie. ```string hello = "سلام".RtlFix();```)
+- bool IsRtl: returns whether string is rtl or not. (ie.```bool checkRtl = "سلام".IsRtl();```)
 
 ## How to use:
 - Import latest unitypackage into your project.
