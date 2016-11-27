@@ -40,3 +40,6 @@ New GUI Items(Creation MenuItem > UPersian > ):
 
 ## ChangeLog:
 - Fix best fit for Unity 5.4.3f1
+
+## Unity Thread:
+https://forum.unity3d.com/threads/free-upersian-rtl-support-for-unity.443081/
