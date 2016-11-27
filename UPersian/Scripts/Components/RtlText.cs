@@ -58,7 +58,7 @@ namespace UPersian.Components
                     {
                         // For the Last line, we only need startIndex and line continues to the end.
                         linedText += baseText.Substring(lines[i].startCharIdx);
-                        if (resizeTextForBestFit) linedText += '\n';
+                        //if (resizeTextForBestFit) linedText += '\n';
                     }
                 }
                 return linedText.RtlFix();
