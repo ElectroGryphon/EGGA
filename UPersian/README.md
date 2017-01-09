@@ -4,10 +4,12 @@ UPersian:
 Unity Game Engine RTL Support
 
 This project used [ArabicSupprt for Unity](https://www.assetstore.unity3d.com/en/#!/content/2674) Asset.
+[ArabicSupprt for Unity now on Github](https://github.com/Konash/arabic-support-unity).
 
 ## Features:
 
 Supports Arabic and Persian for now. (~~Waiting for @Konash to opensource ArabicSupport plugin~~).
+Konash made his plugin opensource and released it here: https://github.com/Konash/arabic-support-unity
 
 New GUI Items(Creation MenuItem > UPersian > ): 
 - RTL Text
