@@ -18,7 +18,7 @@ New GUI Items(Creation MenuItem > UPersian > ):
 - RTL Checkbox
 
 ## TODO:
-Update to latest open ArabicSupport by @konash
+Update to the latest open ArabicSupport by @konash
 
 ### Runtime RTL Input Field
 
