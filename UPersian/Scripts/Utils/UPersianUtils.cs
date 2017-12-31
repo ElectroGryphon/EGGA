@@ -71,7 +71,7 @@ namespace UPersian.Utils
                     //if (resizeTextForBestFit) linedText += '\n';
                 }
             }
-            txtComponent.text = NBidi.NBidi.LogicalToVisual(linedText);
+            txtComponent.text =  ArabicSupport.ArabicFixer.Fix(linedText));
         }
 
        
