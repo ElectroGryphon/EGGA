@@ -38,6 +38,7 @@ namespace UPersian.Components
                 // Make list of lines
                 List<UILineInfo> lines = cachedTextGenerator.lines as List<UILineInfo>;
                 if (lines == null) return null;
+                if (lines.Count <= 1) return baseText.RtlFix();
                 string linedText = "";
                 for (int i = 0; i < lines.Count; i++)
                 {

@@ -47,7 +47,16 @@ namespace UPersian.Utils
                 txtComponent.GetGenerationSettings(txtComponent.rectTransform.rect.size));
             // Make list of lines
             List<UILineInfo> lines = txtComponent.cachedTextGenerator.lines as List<UILineInfo>;
-            if (lines == null) txtComponent.text = string.Empty;
+            if (lines == null)
+            {
+                txtComponent.text = string.Empty;
+                return;
+            }
+            if (lines.Count <= 1)
+            {
+                txtComponent.text = ArabicSupport.ArabicFixer.Fix(text);
+                return;
+            }
             string linedText = string.Empty;
             for (int i = 0; i < lines.Count; i++)
             {
@@ -71,9 +80,9 @@ namespace UPersian.Utils
                     //if (resizeTextForBestFit) linedText += '\n';
                 }
             }
-            txtComponent.text =  ArabicSupport.ArabicFixer.Fix(linedText));
+            txtComponent.text = ArabicSupport.ArabicFixer.Fix(linedText);
         }
 
-       
+
     }
 }
