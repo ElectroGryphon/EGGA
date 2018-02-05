@@ -15,8 +15,9 @@ namespace UPersian.Utils
         public static string RtlFix(this string str)
         {
             //ﺉﻚﻙﯤ
-            str = str.Replace('ی', 'ﻱ');
+            str = str.Replace('ی', 'ى');
             //str = str.Replace( 'ی','ﺉ');
+            
             str = str.Replace('ک', 'ﻙ');
             //str = str.Replace('ﻚ', 'ک');
             str = ArabicSupport.ArabicFixer.Fix(str, true, false);
