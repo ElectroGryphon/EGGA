@@ -1,12 +1,16 @@
 ﻿#if UNITY_EDITOR
 using UnityEditor;
+#endif
 using UnityEngine;
 
 namespace UPersian.Scripts
 {
+﻿#if UNITY_EDITOR
     [ExecuteInEditMode]
+#endif
     public class EGG : MonoBehaviour
     {
+    ﻿#if UNITY_EDITOR
         public static Texture2D EGGLogo;
 
         void OnEnable()
@@ -30,6 +34,6 @@ namespace UPersian.Scripts
             }
             Graphics.DrawTexture(new Rect(GUILayoutUtility.GetLastRect().width - selectionRect.height - 5 - offX, selectionRect.y, selectionRect.height, selectionRect.height), EGGLogo);
         }
+    #endif
     }
 }
-#endif
